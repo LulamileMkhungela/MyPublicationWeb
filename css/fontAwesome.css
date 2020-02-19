@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+/*!
+ *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+/* FONT PATH
+ * -------------------------- */
+>>>>>>> master
 @font-face {
   font-family: 'FontAwesome';
   src: url('../fonts/fontawesome-webfont.eot?v=4.7.0');
@@ -172,7 +181,12 @@
 .fa-inverse {
   color: #ffffff;
 }
+<<<<<<< HEAD
 /* Font Awesome */
+=======
+/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
+   readers do not read off random characters that represent icons */
+>>>>>>> master
 .fa-glass:before {
   content: "\f000";
 }

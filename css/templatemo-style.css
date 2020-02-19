@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+/* 
+
+Sentra Template
+
+http://www.templatemo.com/tm-518-sentra
+
+*/
+
+>>>>>>> master
 body {
   font-family: 'Open Sans', sans-serif;
 }
@@ -108,7 +119,11 @@ header {
     top: -75px;
 }
 
+<<<<<<< HEAD
 /*Navigation */
+=======
+/* Responsive Navigation */
+>>>>>>> master
 
 .responsive-nav {
   position: fixed;
@@ -929,7 +944,11 @@ header {
 
 
 
+<<<<<<< HEAD
 /*Style */
+=======
+/* Responsive Style */
+>>>>>>> master
 
 @media (max-width: 992px) {
 
