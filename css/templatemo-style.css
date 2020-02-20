@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-=======
-/* 
-
-Sentra Template
-
-http://www.templatemo.com/tm-518-sentra
-
-*/
-
->>>>>>> master
 body {
   font-family: 'Open Sans', sans-serif;
 }
@@ -56,7 +45,7 @@ p {
 .section-heading em {
   font-style: normal;
   font-weight: 700;
-  color: #45489a;
+  color: teal;
 }
 
 .section-heading p {
@@ -71,7 +60,7 @@ p {
 .white-button a {
   font-size: 13px;
   font-weight: 600;
-  color: #45489a;
+  color: teal;
   text-transform: capitalize;
   background-color: #fff;
   display: inline-block;
@@ -84,7 +73,7 @@ p {
 }
 
 .white-button a:hover {
-  background-color: #45489a;
+  background-color: teal;
   color: #fff;
 }
 
@@ -93,7 +82,7 @@ p {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #45489a;
+  background-color: teal;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -105,7 +94,7 @@ p {
 
 .accent-button a:hover {
   background-color: #fff;
-  color: #45489a;
+  color: teal;
 }
 
 header {
@@ -119,11 +108,7 @@ header {
     top: -75px;
 }
 
-<<<<<<< HEAD
-/*Navigation */
-=======
 /* Responsive Navigation */
->>>>>>> master
 
 .responsive-nav {
   position: fixed;
@@ -197,7 +182,7 @@ header {
   width: 100%;
   height: 140px;
   line-height: 100px;
-  background-color: #45489a;
+  background-color: teal;
   padding: 20px;
   text-align: center;
 }
@@ -315,7 +300,7 @@ header {
 }
 
 .sidebar-navigation .social-icons li a:hover {
-  color: #45489a;
+  color: teal;
 }
 
 
@@ -454,7 +439,7 @@ header {
 .slick-track{position:relative;top:0;left:0;display:block}
 .slick-track:before,.slick-track:after{display:table;content:''}.slick-track:after{clear:both}
 .slick-loading .slick-track{visibility:hidden}
-.slick-slide{display:none;float:left /* If RTL Make This Right */ ;height:100%;min-height:1px}
+.slick-slide{display:none;float:left ;height:100%;min-height:1px}
 .slick-slide.dragging img{pointer-events:none}
 .slick-initialized .slick-slide{display:block}
 .slick-loading .slick-slide{visibility:hidden}
@@ -493,7 +478,7 @@ header {
 }
 
 #featured .owl-dots .active span {
-  background-color: #45489a!important;
+  background-color: teal!important;
 }
 
 #featured .owl-dots button {
@@ -529,7 +514,7 @@ header {
 }
 
 #featured .owl-nav span:hover {
-  background-color: #45489a;
+  background-color: teal;
   color: #fff;
 }
 
@@ -743,7 +728,7 @@ header {
   height: 90px;
   width: 100%;
   background-color: #eee;
-  border-bottom: 10px solid #45489a;
+  border-bottom: 10px solid teal;
 }
 
 #blog .tabs li {
@@ -769,7 +754,7 @@ header {
 }
 
 #blog .tabs a:hover {
-  color: #45489a;
+  color: teal;
 }
 
 
@@ -778,7 +763,7 @@ header {
 }
 
 #blog .tabs .active {
-  background-color: #45489a;
+  background-color: teal;
   color: #fff;
 }
 
@@ -897,7 +882,7 @@ header {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #45489a;
+  background-color: teal;
   display: inline-block;
   height: 44px;
   line-height: 24px;
@@ -944,11 +929,7 @@ header {
 
 
 
-<<<<<<< HEAD
-/*Style */
-=======
 /* Responsive Style */
->>>>>>> master
 
 @media (max-width: 992px) {
 
